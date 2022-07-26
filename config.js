@@ -47,7 +47,7 @@ global.urlnya = "https://www.instagram.com/aguzfamilia"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 859-2248-0867'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -57,8 +57,8 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = data.namabot;
-global.author = data.owner;
+global.packname = data.ChruzzXd;
+global.author = data.KyyFvX;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
